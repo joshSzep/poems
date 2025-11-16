@@ -1,0 +1,11 @@
+.DS_Store
+
+# Common OS/editor cruft
+Thumbs.db
+ehthumbs.db
+*.swp
+*.swo
+*~
+.idea/
+
+
